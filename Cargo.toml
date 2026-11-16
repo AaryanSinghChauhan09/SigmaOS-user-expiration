@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-user-expiration"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS user-expiration component - user_management"
+
+[lib]
+name = "user_expiration"
+path = "src/lib.rs"
