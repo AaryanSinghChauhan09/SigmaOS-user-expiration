@@ -3,7 +3,7 @@ name = "SigmaOS-user-expiration"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "user-expiration component"
+description = "user expiration"
 upstream = []
 
 [contract]
